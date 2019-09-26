@@ -16,7 +16,7 @@ This wrapper allows you to easily interact with the [ZUM Services](https://zum.s
 # Installation
 
 ```bash
-composer require zumservices-api-php
+composer require zumcoin/zumservices-api-php
 ```
 
 
