@@ -1,0 +1,38 @@
+{
+  "name": "zumservices-api-php",
+  "version": "1.0.1",
+  "description": "PHP wrapper for ZUM Services RESTFUL API.",
+  "keywords": [
+    "ZumCoin",
+    "ZUM Services",
+    "ZUM Apps",
+    "ZumCoin Apps",
+    "ZUM API Wrapper"
+  ],
+  "homepage": "https://zum.services",
+  "license": "AGPL-3.0",
+  "authors": [
+    {
+      "name": "CodingRonin",
+      "email": "CodingRonin@zumcoin.org"
+    }
+  ],
+  "require": {
+    "php": ">=7.1.3",
+    "guzzlehttp/guzzle": "^6.2",
+    "ext-json": "*"
+  },
+  "readme": "README.md",
+  "autoload": {
+    "psr-4": {
+      "ZUMservices\\": "src/ZUMservices"
+    }
+  },
+  "repositories": [
+    {
+      "type": "vcs",
+      "url": "https://github.com/zum-services/zumservices-api-php"
+  }
+  ],
+  "minimum-stability": "stable"
+}
