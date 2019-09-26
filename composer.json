@@ -1,5 +1,5 @@
 {
-  "name": "zumservices-api-php",
+  "name": "zumcoin/zumservices-api-php",
   "version": "1.0.1",
   "description": "PHP wrapper for ZUM Services RESTFUL API.",
   "keywords": [
